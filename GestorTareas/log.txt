@@ -1,0 +1,5 @@
+stdClass Object
+(
+    [titulo] => estudiar
+    [descripcion] => repasar un tema importante
+)
